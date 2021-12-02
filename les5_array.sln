@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les5_array", "les5_array\les5_array.csproj", "{CB717240-CB30-4DBA-B990-F37B86B47083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB717240-CB30-4DBA-B990-F37B86B47083}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CB717240-CB30-4DBA-B990-F37B86B47083}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CB717240-CB30-4DBA-B990-F37B86B47083}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CB717240-CB30-4DBA-B990-F37B86B47083}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD8FE6A-3F72-432C-9552-88C8248A1A9A}
+	EndGlobalSection
+EndGlobal

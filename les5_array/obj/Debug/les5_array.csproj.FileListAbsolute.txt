@@ -1,0 +1,6 @@
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/bin/Debug/les5_array.exe
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/bin/Debug/les5_array.pdb
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/obj/Debug/les5_array.csproj.AssemblyReference.cache
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/obj/Debug/les5_array.csproj.CoreCompileInputs.cache
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/obj/Debug/les5_array.exe
+/Users/maruf/Desktop/C#_lessons/les5_array/les5_array/obj/Debug/les5_array.pdb
